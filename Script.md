@@ -22,8 +22,8 @@ He stuck his head in the door, the color of the foliage was intense greens, brow
 The smell of the of the zoo was intense and alive.
 He took a tentative step through the door and followed the stone path overgrown with giant ferns.
 
-Johnny met the Unicorn King who granted him magic powers.
-That's all, folks.
+Johnny met the Unicorn King who granted him magic powers. Then the Zookeeper swung in on a vine and beheaded Johnny.
+The end.
 
 ## Cast
 
@@ -31,3 +31,4 @@ That's all, folks.
 - Unicorn King: Alan
 - Friendly Koala: Adriana
 - Janitor: Mitchell
+- Zookeeper: Tristan
